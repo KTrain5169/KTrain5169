@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KTrain5169
+- 👀 I’m interested in coding and tech support stuff
+- 🌱 I’m currently learning Computer Science
