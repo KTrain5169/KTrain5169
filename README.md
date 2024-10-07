@@ -7,7 +7,7 @@ You're stalking me here? I guess so.
 - 👀 I’m interested in coding and tech support stuff
 - 🌱 I’m currently learning Computer Science
 - </> In my spare time, I code (in private)! Most of them were great in concept to be honest.
-- ❓I help around in the Hypixel SkyBlock community a fair bit.
+- ❓I help around in the Hypixel SkyBlock, as well as the general Minecraft communities a fair bit.
 
 ## What I work on or am proud of
 
