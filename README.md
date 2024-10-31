@@ -2,6 +2,8 @@
 
 You're stalking me here? I guess so.
 
+https://git.ktrain5369.me/ is my Git redirectional domain, I may use it sometimes to redirect to my stuff on GitHub or other git sites I may use.
+
 ## Interests list
 
 - 👀 I’m interested in coding and tech support stuff
