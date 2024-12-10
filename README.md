@@ -2,7 +2,10 @@
 
 You're stalking me here? I guess so.
 
+See my ok-ish website at https://ktrain5369.me/
+
 https://git.ktrain5369.me/ is my Git redirectional domain, I may use it sometimes to redirect to my stuff on GitHub or other git sites I may use.
+Example: https://git.ktrain5369.me/translator
 
 ## Interests list
 
